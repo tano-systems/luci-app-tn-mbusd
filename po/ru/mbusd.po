@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: luci-app-tn-mbusd\n"
+"POT-Creation-Date: 2020-05-07 05:57+0300\n"
+"PO-Revision-Date: 2020-05-12 22:57+0300\n"
+"Last-Translator: Anton Kikin <a.kikin@tano-systems.com>\n"
+"Language-Team: Tano Systems LLC\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 2.2\n"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:107
+msgid "Baudrate"
+msgstr "Скорость"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:55
+msgid "Enable"
+msgstr "Включить"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:131
+msgctxt "Parity"
+msgid "Even"
+msgstr "Чёт"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:48
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: root/usr/share/rpcd/acl.d/luci-app-tn-mbusd.json:3
+msgid "Grant access to Modbus TCP to RTU gateway configuration"
+msgstr "Предоставить доступ к конфигурации шлюза Modbus TCP в RTU"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:71
+msgid "Information"
+msgstr "Информация"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:65
+msgid "Log verbosity"
+msgstr "Уровень журналирования"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:188
+msgid "Maximum TCP connections"
+msgstr "Максимальное количество TCP подключений"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:41
+msgid "Modbus TCP to Modbus RTU Gateway"
+msgstr "Шлюз Modbus TCP в Modbus RTU"
+
+#: root/usr/share/luci/menu.d/luci-app-tn-mbusd.json:3
+msgid "Modbus TCP to RTU"
+msgstr "Modbus TCP в RTU"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:182
+msgid "Multiple instances with same TCP port is not allowed"
+msgstr "Несколько экземпляров с одним и тем же TCP-портом не разрешены"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:101
+msgid "Multiple instances with same device is not allowed"
+msgstr "Несколько экземпляров с одним и тем же устройством не разрешены"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:130
+msgctxt "Parity"
+msgid "None"
+msgstr "Нет"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:132
+msgctxt "Parity"
+msgid "Odd"
+msgstr "Нечёт"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:69
+msgid "Only errors"
+msgstr "Только ошибки"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:126
+msgid "Parity"
+msgstr "Чётность"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:148
+msgid "Pause between requests"
+msgstr "Пауза между запросами"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:43
+msgid "Ports Configuration"
+msgstr "Конфигурация портов"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:49
+msgid "RTU Settings"
+msgstr "Настройки RTU"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:141
+msgid "Request retries"
+msgstr "Попытки запроса"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:155
+msgid "Response wait time"
+msgstr "Время ожидания ответа"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:86
+msgid "Serial device"
+msgstr "Устройство"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:196
+msgid "Specifies connection timeout in seconds (0–1000, 0 — no timeout)"
+msgstr "Определяет таймаут подключения в секундах (0–1000, 0 — без таймаута)"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:142
+msgid "Specifies maximum number of request retries (0–15, 0 — no retries)"
+msgstr "Определяет максимальное количество повторных попыток запроса (0–15, 0 — без повторных попыток)"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:189
+msgid "Specifies maximum number of simultaneous TCP connections (1–128)"
+msgstr "Определяет максимальное количество одновременных TCP-соединений (1–128)"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:149
+msgid "Specifies pause between requests in milliseconds (1–10000)"
+msgstr "Определяет паузу между запросами в миллисекундах (1–10000)"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:156
+msgid "Specifies response wait time in milliseconds (1–10000)"
+msgstr "Определяет время ожидания ответа в миллисекундах (1–10000)"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:134
+msgid "Stop bits"
+msgstr "Стоповые биты"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:50
+msgid "TCP Settings"
+msgstr "Настройки TCP"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:165
+msgid "TCP address"
+msgstr "TCP адрес"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:171
+msgid "TCP port"
+msgstr "TCP порт"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:195
+msgid "Timeout"
+msgstr "Таймаут"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:70
+msgid "Warnings"
+msgstr "Предупреждения"

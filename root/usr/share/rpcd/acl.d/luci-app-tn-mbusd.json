@@ -1,0 +1,17 @@
+{
+	"luci-app-tn-mbusd": {
+		"description": "Grant access to Modbus TCP to RTU gateway configuration",
+		"read": {
+			"file": {
+				"/dev/*": [ "list" ]
+			},
+			"ubus": {
+				"file": [ "list" ]
+			},
+			"uci": [ "mbusd" ]
+		},
+		"write": {
+			"uci": [ "mbusd" ]
+		}
+	}
+}

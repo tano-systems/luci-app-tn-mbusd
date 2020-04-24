@@ -1,0 +1,15 @@
+{
+	"admin/services/mbusd": {
+		"title": "Modbus TCP to RTU",
+		"order": 199,
+		"action": {
+			"type": "view",
+			"path": "mbusd/mbusd"
+		},
+		"depends": {
+			"uci": { "mbusd": true },
+			"fs" : { "/usr/bin/mbusd": "executable" },
+			"acl": [ "luci-app-tn-mbusd" ]
+		}
+	}
+}

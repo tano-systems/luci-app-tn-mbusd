@@ -1,0 +1,137 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:107
+msgid "Baudrate"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:55
+msgid "Enable"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:131
+msgctxt "Parity"
+msgid "Even"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:48
+msgid "General Settings"
+msgstr ""
+
+#: root/usr/share/rpcd/acl.d/luci-app-tn-mbusd.json:3
+msgid "Grant access to Modbus TCP to RTU gateway configuration"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:71
+msgid "Information"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:65
+msgid "Log verbosity"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:188
+msgid "Maximum TCP connections"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:41
+msgid "Modbus TCP to Modbus RTU Gateway"
+msgstr ""
+
+#: root/usr/share/luci/menu.d/luci-app-tn-mbusd.json:3
+msgid "Modbus TCP to RTU"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:182
+msgid "Multiple instances with same TCP port is not allowed"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:101
+msgid "Multiple instances with same device is not allowed"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:130
+msgctxt "Parity"
+msgid "None"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:132
+msgctxt "Parity"
+msgid "Odd"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:69
+msgid "Only errors"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:126
+msgid "Parity"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:148
+msgid "Pause between requests"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:43
+msgid "Ports Configuration"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:49
+msgid "RTU Settings"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:141
+msgid "Request retries"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:155
+msgid "Response wait time"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:86
+msgid "Serial device"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:196
+msgid "Specifies connection timeout in seconds (0–1000, 0 — no timeout)"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:142
+msgid "Specifies maximum number of request retries (0–15, 0 — no retries)"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:189
+msgid "Specifies maximum number of simultaneous TCP connections (1–128)"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:149
+msgid "Specifies pause between requests in milliseconds (1–10000)"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:156
+msgid "Specifies response wait time in milliseconds (1–10000)"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:134
+msgid "Stop bits"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:50
+msgid "TCP Settings"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:165
+msgid "TCP address"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:171
+msgid "TCP port"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:195
+msgid "Timeout"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/mbusd/mbusd.js:70
+msgid "Warnings"
+msgstr ""
